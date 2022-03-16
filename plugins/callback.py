@@ -59,7 +59,7 @@ async def cb_handler(bot: Client, query: CallbackQuery):
 				],
 				[
 					InlineKeyboardButton("🔗Source Code", url="https://github.com/itz-mst-boy/Instagram-Bot"),
-					InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+					InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/itz-mst-boy/Instagram-Bot")
 				]
 			]
 			)
